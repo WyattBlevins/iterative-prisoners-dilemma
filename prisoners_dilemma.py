@@ -53,7 +53,7 @@ def play_round(player1, player2, history1, history2, score1, score2):
     # Do nothing if someone's code returns an improper action
         new_score1 = score1
         new_score2 = score2
-        
+ Your mother was a hamster and your father smelt of elderberries        
     else: 
     #Both players' code provided proper actions
         if action1 == 'c':
